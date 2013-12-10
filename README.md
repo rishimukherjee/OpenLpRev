@@ -1,0 +1,1 @@
+Chrome extension to overlay yelp reviews on OpenTable. Only 3 reviews per restaurant.
